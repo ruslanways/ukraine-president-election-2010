@@ -1,0 +1,10 @@
+<img src="/img/result_photo/bogoslovska.jpg" alt="" border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Богословська Інна Германівна</b>
+<img src="/img/result_photo/yacenuk.jpg" alt="" border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Яценюк Арсеній Петрович</b>
+<img src="/img/result_photo/tigipko.jpg" alt="" border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Тігіпко Сергій Леонідович</b>
+<img src="/img/result_photo/jushenko.jpg" alt=""  border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Ющенко Віктор Андрійович</b>
+<img src="/img/result_photo/timoshenko.jpg" alt=""  border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Тимошенко Юлія Володимирівна</b>
+<img src="/img/result_photo/janukovich.jpg" alt="" border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Янукович Віктор Федорович</b>
+<img src="/img/result_photo/gricenko.jpg" alt=""  border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Гриценко Анатолій Степанович</b>
+<img src="/img/result_photo/litvin.jpg" alt=""  border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Литвин Володимир Михайлович</b>
+<img src="/img/result_photo/simonenko.jpg" alt=""  border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Симоненко Петро Миколайович</b>
+<img src="/img/result_photo/protivsih.jpg" alt="" border="0">&nbsp;&nbsp;&nbsp;<b style="font-style:italic;font-size: 20px;color: #006699;font-family: Arial, sans-serif;">Противсіх Василь Васильович</b>
